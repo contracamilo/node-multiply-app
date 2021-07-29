@@ -2,7 +2,7 @@
 
 Multiplication table generator app
 
-Execute as a command
+Run in console:
 
 ```
 npm install
